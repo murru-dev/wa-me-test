@@ -14,7 +14,7 @@ function startChat() {
     type="text"
     name="wa-me-number"
     id="waMeNumber"
-    placeholder="Number without +, 0 or country code"
+    placeholder="Ex: +58412xxxxxxx"
     class="waMeNumber"
     v-model="phoneNumber"
   >
@@ -36,5 +36,11 @@ function startChat() {
 .disabledButton {
   background-color: grey;
   color: white;
+}
+
+@media (max-width: 573px) {
+  .waMeNumber {
+    width: 100%;
+  }
 }
 </style>
