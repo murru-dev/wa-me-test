@@ -120,7 +120,7 @@ button:focus-visible {
   width: 300px;
 }
 
-.disabledButton {
+.disabledButton, .disabledButton:hover {
   background-color: grey;
   color: white;
 }
