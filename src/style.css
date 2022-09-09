@@ -29,7 +29,8 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-  background-color: #242424;
+  	background-color: #242424;
+	font-family: 'Inconsolata', monospace;
 	line-height: 1;
 }
 ol, ul {
