@@ -1,7 +1,17 @@
-# Vue 3 + Vite
+# Whatsapp Me!
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Simple example to start a chat after writting a valid phone number registered in whatsapp.
+You can see the demo working clicking on [this link](https://wa-me-test.ekodevs.com/).
 
-## Recommended IDE Setup
+## Tools I used
+- Vue 3.
+- Vite.
+- Fontawesome.
+- Google fonts.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## If you want to try it locally, just run:
+- git clone -repo url-.
+- cd -folderName-.
+- npm install.
+- npm run dev.
+- Enjoy!
